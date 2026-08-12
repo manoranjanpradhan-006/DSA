@@ -1,0 +1,6 @@
+---STACK---
+
+-> Stack is  a last in first out Data Structure.
+-> Removal of an item from the stack is called "POP".
+-> Adding an item into the stack is known as "PUSH".
+

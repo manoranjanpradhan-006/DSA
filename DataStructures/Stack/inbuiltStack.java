@@ -2,7 +2,7 @@ package DataStructures.Stack;
 
 import java.util.Stack;
 
-public class inbuiltStack {
+public class InbuiltStack {
     public static void main(String[] args) {
 
         Stack<Integer> stack = new Stack<>();
