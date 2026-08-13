@@ -1,5 +1,5 @@
 package DataStructures.Queue;
 
-public class Main {
+public class QueueMain {
 
 }
