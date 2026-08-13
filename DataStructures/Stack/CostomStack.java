@@ -49,7 +49,7 @@ public class CostomStack {
         return data[ptr];
     }
 
-    private boolean isFull() {
+    public boolean isFull() {
         return ptr == data.length - 1;
     }
 
