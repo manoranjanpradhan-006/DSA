@@ -18,5 +18,7 @@ public class InbuiltQueue {
         System.out.println(queue.poll());
         System.out.println(queue.poll());
         System.out.println(queue.poll());
+
+        System.out.println(queue.remove());
     }
 }
