@@ -1,5 +1,6 @@
 package DataStructures.Queue;
 
+import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -20,5 +21,7 @@ public class InbuiltQueue {
         System.out.println(queue.poll());
 
         System.out.println(queue.remove());
+
+        Deque<Integer> dQueue = new LinkedList<>();
     }
 }
