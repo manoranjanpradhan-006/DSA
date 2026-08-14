@@ -3,7 +3,7 @@ package DataStructures.Queue;
 public class CostomQueue {
 
     int end = 0;
-    private int[] data;
+    protected int[] data;
     private static final int DEFAULT_SIZE = 10;
 
     public CostomQueue() {
