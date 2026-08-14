@@ -28,7 +28,6 @@ public class InbuiltQueue {
         dQueue.addFirst(9);
         dQueue.add(75);
         dQueue.addLast(80);
-
         dQueue.removeFirst();
 
     }
