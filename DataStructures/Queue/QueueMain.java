@@ -31,9 +31,26 @@ public class QueueMain {
         dQueue.insert(99);
         dQueue.insert(94);
 
-        dQueue.display();
+        // dQueue.display();
 
-        dQueue.remove();
+        // dQueue.remove();
+
+        CircularQueue cQueue = new CircularQueue(5);
+
+        cQueue.insert(7);
+        cQueue.insert(71);
+        cQueue.insert(711);
+        cQueue.insert(7111);
+        cQueue.insert(71111);
+
+        // cQueue.display();
+
+        // cQueue.remove();
+        // cQueue.remove();
+
+        // cQueue.insert(711111);
+
+        // cQueue.display();
     }
 
 }
