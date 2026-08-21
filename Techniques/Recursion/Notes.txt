@@ -1,4 +1,4 @@
-Recusion :- 
+Recursion :- 
 
     -> It means a function calling another function.
     -> Where the body and the definition of the function is same.
