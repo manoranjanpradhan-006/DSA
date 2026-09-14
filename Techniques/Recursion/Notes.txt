@@ -4,3 +4,4 @@ Recursion :-
     -> Where the body and the definition of the function is same.
     -> 
 
+    * When a function finishes executing it is removed from the stack and the flow of programming is restored to where the function was called.
