@@ -1,15 +1,14 @@
 package DataStructures.BinaryTree;
 
 public class binaryTree {
-    
-    class Node{
+
+    class Node {
         int val;
         Node leftNode;
         Node rightNode;
-        Node(int val){
+
+        Node(int val) {
             this.val = val;
         }
     }
-    leftNode = null;
-
 }
